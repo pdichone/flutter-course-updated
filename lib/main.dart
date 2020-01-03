@@ -1,10 +1,6 @@
 import 'package:first_flutter_app/ui/home.dart';
 import 'package:flutter/material.dart';
 
-import 'board_firestore/board_app.dart';
-import 'flutter_maps/quakes_map_app/quakes_app.dart';
-
-
 //void main() => runApp(ScaffoldExample());
 
 final ThemeData _appTheme = _buildAppTheme();
@@ -69,5 +65,7 @@ void main() => runApp(new MaterialApp(
 //       )
 
       //),
-      home: BoardApp(),
+  home: Wisdom(),
+
+
     ));

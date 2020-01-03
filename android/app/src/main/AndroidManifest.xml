@@ -1,6 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.bawp.app.first_flutter_app">
+          package="com.bawp.app.first_flutter_app">
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -12,7 +11,7 @@
         android:label="first_flutter_app"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-                   android:value="ADD YOUR API_KEY"/>
+                   android:value="AIzaSyAKFwzlcGyHasLFUrrwkS61s5BcBcQKhY4"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
