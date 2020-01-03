@@ -67,6 +67,7 @@
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
 **/ios/Runner/Info.plist
+**/ios/Runner/AppDelegate.swift
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
