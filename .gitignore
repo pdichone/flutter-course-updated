@@ -66,7 +66,6 @@
 **/ios/Flutter/flutter_export_environment.sh
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
-**/ios/Runner/Info.plist
 **/ios/Runner/AppDelegate.swift
 
 # Exceptions to above rules.
