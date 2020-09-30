@@ -1,4 +1,4 @@
-# first_flutter_app
+# First Flutter App
 
 Source code for the Dart & Flutter Course.
 
